@@ -50,3 +50,4 @@ const Button: React.FC<React.PropsWithChildren<ButtonProps>> = ({
         </button>
     );
 };
+export { Button };
