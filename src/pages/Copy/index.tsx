@@ -1,5 +1,6 @@
 import { Helmet } from "react-helmet";
 import { Text } from "../../components";
+import React from "react";
 
 export default function CopyPage() {
   return (

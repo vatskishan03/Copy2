@@ -1,5 +1,6 @@
 import { Helmet } from "react-helmet";
 import { Text, Button, Img } from "../../components";
+import React from "react";
 
 export default function CreatePage() {
   return (
